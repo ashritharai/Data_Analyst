@@ -1,0 +1,6 @@
+1000 Fortune companies:
+Cleaning data:
+1. Changing in Rank (500 only) dropped the column
+2. profits(change %) blank to 0
+3. deleted a company because no market value
+4. deleted 4 companies which dint have profits(in millions)
